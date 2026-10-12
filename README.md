@@ -3,7 +3,7 @@
 # Collect-LinuxMemoryDump
 Linux Memory Acquisition for Digital Forensics and Incident Response (DFIR)  
 
-Collect-LinuxMemoryDump.sh is a Shell script utilized to collect a Memory Snapshot from a Linux system (including kernel image and mapping layout) in a forensically sound manner. 
+Collect-LinuxMemoryDump.sh is a Shell script utilized to collect a Memory Snapshot from a live Linux system (including kernel image and mapping layout) in a forensically sound manner. 
 
 ## Features
 * Linux Memory Acquisition w/ AVML (uncompressed LiME image) - no on-target compilation required
